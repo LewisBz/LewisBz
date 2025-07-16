@@ -65,9 +65,7 @@ Siempre abierto a **colaborar, aprender y aportar** a iniciativas que sumen valo
 
 ---
 
-¡Espero que esta plantilla mejorada te sirva de inspiración para tu proyecto Ecobreath y tu presencia online! Cuando lo tengas listo, crea un repositorio con el nombre de tu usuario de GitHub (`LewisBz`) y pega este contenido en un archivo `README.md` en la raíz.
 
-¿Qué te parece esta propuesta? ¿Hay alguna sección que te gustaría expandir o añadir?
 
 <!--
 **LewisBz/LewisBz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
