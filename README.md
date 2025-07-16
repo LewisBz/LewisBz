@@ -97,7 +97,7 @@ Estoy construyendo mi sitio web personal para ofrecer una inmersión más profun
 Siempre abierto a colaborar y aprender. ¡No dudes en contactarme!
 
 <div align="center">
-  <a href="mailto:luisa-grandettm@unilibre.edu.co"> <img src="https://img.shields.io/badge/Email-tu.correo@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=101010" alt="Email Badge">
+  <a href="mailto:luisa-grandettm@unilibre.edu.co"> <img src="https://img.shields.io/badge/Email-luisa-grandettm@unilibre.edu.co-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=101010" alt="Email Badge">
   </a>
   <br>
   <a href="https://https://www.linkedin.com/in/luis-grandett-m-3143b3333"> <img src="https://img.shields.io/badge/LinkedIn-Luis_GrandettM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn Badge">
