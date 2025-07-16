@@ -1,83 +1,82 @@
 <div align="center">
+  <img src="URL_DE_TU_IMAGEN_DE_PERFIL_O_GIF_AQUI" alt="Tu Foto de Perfil" style="border-radius:50%; width:150px; height:150px;">
+  
   <h1>👋 ¡Hola! Soy Luis Grandett (LewisBz)</h1>
   <h3>🎓 Ingeniero de Sistemas en formación | 👨‍💻 Apasionado por la programación, la tecnología y la innovación.</h3>
 </div>
 
 ---
 
-### 📌 Sobre mí
-
-Mi nombre es Luis Grandett, tengo 20 años y actualmente curso el 4to semestre de Ingeniería de Sistemas en Barranquilla, Colombia. Me considero una persona proactiva, creativa y profundamente curiosa por el mundo de la tecnología.
-
-Soy un investigador incansable de nuevas tendencias, especialmente en el ámbito de la Inteligencia Artificial y cómo los sistemas IoT pueden transformar la vida cotidiana. Mi pasión reside en aprender, enfrentar retos reales y combinar hardware y software para diseñar y crear soluciones útiles e innovadoras.
-
----
-
-### 💻 Tecnologías que manejo
-
-| Categoría           | Lenguajes/Tecnologías                 | Insignias                                                                                                                                                                                                                                                                          |
-| :------------------ | :------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lenguajes** | Java (fuerte)                         | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)                                                                                                                                                                                   |
-|                     | C++ (IoT)                             | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)                                                                                                                                                                               |
-|                     | Python (en aprendizaje)               | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)                                                                                                                                                                             |
-| **IoT** | Microcontroladores (Arduino, ESP32)   | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E73527?style=for-the-badge&logo=espressif&logoColor=white)                                                               |
-| **Control de Versiones** | Git (intermedio)                      | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)                                                                                                                                                                                        |
+<div align="center">
+  <a href="https://github.com/LewisBz">
+    <img src="https://img.shields.io/badge/-LewisBz-20232A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
+  <a href="mailto:tu.correo@example.com"> <img src="https://img.shields.io/badge/-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/tu-usuario-de-linkedin"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+</div>
 
 ---
 
-### 🧠 Habilidades blandas
+### 🚀 Acerca de mí
 
-* 💬 **Comunicación** clara y efectiva
-* 🤝 **Trabajo en equipo** y colaboración
-* 🔍 **Pensamiento analítico** y resolución de problemas
-* 🚀 **Aprendizaje autónomo** y constante
+Mi nombre es **Luis Grandett**, un apasionado **Ingeniero de Sistemas en formación** de 20 años, cursando el 4to semestre en Barranquilla, Colombia. Me defino por mi **proactividad, creatividad** y una **curiosidad insaciable** por explorar e investigar las últimas **tendencias tecnológicas**.
 
----
-
-### 🎮 Hobbies e intereses
-
-* 💻 Programar y crear proyectos innovadores
-* 🤖 Aprender sobre Inteligencia Artificial
-* 🔬 Explorar nuevas tecnologías y tendencias
-* 🎮 Jugar videojuegos
-* 🏋️‍♂️ Mantenerme activo y saludable
+Mi interés se centra profundamente en la **Inteligencia Artificial (IA)** y en cómo los sistemas **IoT** pueden revolucionar la vida cotidiana. Me motiva **transformar ideas en soluciones tangibles**, combinando **hardware y software** para enfrentar desafíos reales y generar un **impacto innovador**. Siempre estoy en la búsqueda de nuevos conocimientos y oportunidades para colaborar en proyectos que aporten valor.
 
 ---
 
-### 🚀 Objetivo profesional
+### 🛠️ Habilidades Técnicas
 
-Mi objetivo es convertirme en un **Ingeniero de Sistemas** capaz de diseñar y desarrollar proyectos que combinen **software, hardware e IA**, generando un impacto real en mi entorno.
-
-Siempre abierto a **colaborar, aprender y aportar** a iniciativas que sumen valor.
-
----
-
-### 📊 Mis estadísticas de GitHub
-
-![LewisBz GitHub Stats](https://github-readme-stats.vercel.app/api?username=LewisBz&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![LewisBz Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LewisBz&layout=compact&theme=radical&hide_border=true)
+| Categoría | Lenguajes / Tecnologías | Insignias |
+| :-------- | :---------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lenguajes de Programación** | **Java** (Mi fortaleza principal) | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) |
+| | **C++** (Enfocado en IoT) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| | **Python** (Aprendizaje continuo, IA) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Tecnologías IoT** | **Microcontroladores** (Arduino, ESP32) | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E73527?style=for-the-badge&logo=espressif&logoColor=white) |
+| **Control de Versiones** | **Git** (Nivel intermedio) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
 
-### 📫 ¿Hablamos?
+### 💡 Habilidades Blandas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario-de-linkedin) [![Correo Electrónico](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.correo@example.com) ```
+* **Comunicación** clara y efectiva
+* **Trabajo en equipo** y colaboración
+* **Pensamiento analítico** y resolución de problemas
+* **Aprendizaje autónomo** y constante
 
 ---
 
+### 🎨 Hobbies e Intereses
 
+* **Creación:** Programar y desarrollar proyectos innovadores
+* **Exploración:** Aprender sobre Inteligencia Artificial y nuevas tecnologías
+* **Entretenimiento:** Jugar videojuegos
+* **Bienestar:** Mantener un estilo de vida saludable, incluyendo actividad física regular en el gimnasio y una alimentación consciente.
 
-<!--
-**LewisBz/LewisBz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🎯 Objetivo Profesional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi meta es consolidarme como un **Ingeniero de Sistemas** capaz de liderar el diseño y desarrollo de proyectos que integren **software, hardware e Inteligencia Artificial**, generando un impacto positivo y significativo en mi entorno.
+
+---
+
+### 📊 Mis Contribuciones en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LewisBz&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="LewisBz GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LewisBz&layout=compact&theme=radical&hide_border=true" alt="LewisBz Top Languages">
+</p>
+
+---
+
+### 🌐 Mi Portafolio Web (Próximamente)
+
+Estoy construyendo mi sitio web personal para ofrecer una inmersión más profunda en mis proyectos, habilidades y la visión detrás de ellos.
+
+¡Mantente atento para explorar mi **portafolio online**!
+
+---
