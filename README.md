@@ -7,9 +7,9 @@
 
 ### 📌 Sobre mí
 
-Mi nombre es **Luis Grandett**, tengo 20 años y actualmente curso el **4to semestre de Ingeniería de Sistemas** en Barranquilla, Colombia. Me considero una persona proactiva, curiosa y con un gran interés en cómo la **tecnología, la Inteligencia Artificial y los sistemas IoT** pueden transformar la vida cotidiana.
+Mi nombre es Luis Grandett, tengo 20 años y actualmente curso el 4to semestre de Ingeniería de Sistemas en Barranquilla, Colombia. Me considero una persona proactiva, creativa y profundamente curiosa por el mundo de la tecnología.
 
-Siempre busco aprender algo nuevo, enfrentar retos reales y combinar hardware y software para crear soluciones útiles.
+Soy un investigador incansable de nuevas tendencias, especialmente en el ámbito de la Inteligencia Artificial y cómo los sistemas IoT pueden transformar la vida cotidiana. Mi pasión reside en aprender, enfrentar retos reales y combinar hardware y software para diseñar y crear soluciones útiles e innovadoras.
 
 ---
 
