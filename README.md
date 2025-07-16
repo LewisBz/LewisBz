@@ -11,7 +11,7 @@
   <a href="https://github.com/LewisBz">
     <img src="https://img.shields.io/badge/-LewisBz-20232A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
   </a>
-  <a href="mailto:tu.correo@outlook.com"> <img src="https://img.shields.io/badge/-Contáctame-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge">
+  <a href="mailto:luisa-grandettm@unilibre.edu.co"> <img src="https://img.shields.io/badge/-Contáctame-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge">
   </a>
   <a href="https://www.linkedin.com/in/tu-usuario-de-linkedin"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
@@ -80,9 +80,12 @@ Aquí puedes encontrar algunos de mis proyectos más relevantes. ¡Pronto más d
 #### **Ecobreath: Monitoreo Ambiental IoT**
 Un proyecto innovador que combina hardware y software para el monitoreo de la calidad del aire y otros parámetros ambientales, utilizando microcontroladores y sensores.
 
-<a href="https://github.com/LewisBz/Ecobreath"> <img src="URL_IMAGEN_ECOBREATH_AQUI" alt="Ecobreath Project Image" style="height: 60%; width:60%; border-radius: 8px;"> </a>
+<a href="https://github.com/LewisBz/Ecobreath"> 
+<img src="URL_IMAGEN_ECOBREATH_AQUI" alt="Ecobreath Project Image" style="height: 60%; width:60%; border-radius: 8px;"> 
+</a>
 <br>
-[![GitHub Stars](https://img.shields.io/github/stars/LewisBz/Ecobreath?style=social&label=Ver%20en%20GitHub)](https://github.com/LewisBz/Ecobreath) ---
+[![GitHub Stars](https://img.shields.io/github/stars/LewisBz/Ecobreath?style=social&label=Ver%20en%20GitHub)](https://github.com/LewisBz/Ecobreath) 
+---
 
 ### 🌐 Mi Portafolio Web (Próximamente)
 
@@ -97,9 +100,9 @@ Estoy construyendo mi sitio web personal para ofrecer una inmersión más profun
 Siempre abierto a colaborar y aprender. ¡No dudes en contactarme!
 
 <div align="center">
-  <a href="mailto:luisa-grandettm@unilibre.edu.co"> <img src="https://img.shields.io/badge/Email-luisa-grandettm@unilibre.edu.co-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=101010" alt="Email Badge">
+  <a href="mailto:luisa-grandettm@unilibre.edu.co"> <img src="https://img.shields.io/badge/Email-luisa--grandettm@unilibre.edu.co-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=101010" alt="Email Badge">
   </a>
   <br>
-  <a href="https://https://www.linkedin.com/in/luis-grandett-m-3143b3333"> <img src="https://img.shields.io/badge/LinkedIn-Luis_GrandettM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn Badge">
+  <a href="https://www.linkedin.com/in/tu-usuario-de-linkedin"> <img src="https://img.shields.io/badge/LinkedIn-Luis_Grandett-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn Badge">
   </a>
   </div>
