@@ -66,3 +66,21 @@ const profile = {
     "Efficiency, clean architecture, teamwork and responsible use of AI",
 };
 
+🤝 Collaboration & Communication
+
+I strongly value clear and assertive communication as part of good engineering.
+I enjoy working in team-oriented environments, sharing ideas, giving and
+receiving feedback, and aligning technical decisions with real objectives.
+
+Good systems are built with good code —
+great systems are built with good teams.
+
+🧭 Engineering Values
+
+Clear communication over assumptions
+
+Teamwork over ego
+
+Simplicity over unnecessary complexity
+
+AI as a tool, not a shortcut
