@@ -78,7 +78,7 @@ Good systems are built with good code —
 
 ---
 
-## 🧭 Engineering Values
+##  Engineering Values
 
 - Clear communication over assumptions  
 - Teamwork over ego  
@@ -132,7 +132,7 @@ Good systems are built with good code —
 
 ---
 
-### ⚙️ Embedded Systems
+###  Embedded Systems
 
 <img src="https://skillicons.dev/icons?i=arduino,cpp&perline=6" />
 
