@@ -4,7 +4,7 @@
 
 <h1>Hi, I'm Luis Grandett 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=520&lines=Systems+Engineering+Student;IoT+%26+Artificial+Intelligence;Software+%2B+Hardware+Builder;Turning+ideas+into+working+systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=520&lines=Systems+Engineering+Student;AI-Oriented+Developer;Software+%2B+Hardware+Builder;Turning+ideas+into+working+systems" />
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
 ```ts
 const profile = {
@@ -47,7 +47,7 @@ const profile = {
   stack: {
     backend: ["Python", "Django (ORM)", "Node.js"],
     frontend: ["React", "TypeScript"],
-    database: ["PostgreSQL", "Supabase"],
+    database: ["PostgreSQL", "MySQL", "Supabase"],
     devops: ["Docker", "Dokploy"],
   },
 
@@ -85,87 +85,53 @@ Simplicity over unnecessary complexity
 
 AI as a tool, not a shortcut
 
+⚡ Tech Stack Overview
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,django,postgres,supabase,docker,git,arduino" /> </p>
+🛠 Tech Stack
+🎨 Frontend
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" /> </p>
+⚙️ Backend
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,django,nodejs,deno" /> </p>
+🗄 Databases & BaaS
+<p align="center"> <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" /> </p>
+🤖 AI / Data
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch" /> </p>
 
----
----
+Data analysis and preprocessing
 
-## ⚡ Tech Stack Overview
+Machine Learning & Deep Learning foundations
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,django,postgres,supabase,docker,git,arduino" />
-</p>
+Model training and experimentation with scikit-learn, TensorFlow, and PyTorch
 
----
+🧠 DevOps & Cloud
+<p align="center"> <img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel" /> </p>
 
-## 🛠 Tech Stack
+Containerized deployments with Docker
 
-### 🎨 Frontend
+Learning modern deployment workflows with Dokploy
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" />
-</p>
+Edge and hosting platforms for scalable apps
 
----
+⚙️ Embedded Systems
+<p align="center"> <img src="https://skillicons.dev/icons?i=arduino" /> </p>
 
-### ⚙️ Backend
+ESP32 · C++ · sensor-based and IoT projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,deno" />
-</p>
+🧰 Tools & Workflow
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,linux,bash,postman,figma" /> </p>
 
----
+Git (intermediate level, collaborative workflows)
 
-### 🗄 Databases & BaaS
+Linux: Ubuntu (VPS) · Manjaro KDE (Personal)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
-</p>
+Knowledge management: Notion · Obsidian
 
----
+Package management: pnpm
 
-### 🤖 AI / Data
+🎯 Current Focus
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch" />
-</p>
+Building scalable web systems
 
-- Data analysis and preprocessing
-- Machine Learning & Deep Learning foundations
-- Model training and experimentation with **scikit-learn**, **TensorFlow**, and **PyTorch**
+Applying AI responsibly to real-world problems
 
----
-
-### 🧠 DevOps & Cloud
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel" />
-</p>
-
-- Containerized deployments with **Docker**
-- Learning modern deployment workflows with **Dokploy**
-- Edge and hosting platforms for scalable apps
-
----
-
-### ⚙️ Embedded Systems
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino" />
-</p>
-
-- ESP32 · C++ · sensor-based and IoT projects
-
----
-
-### 🧰 Tools & Workflow
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,bash,postman,figma" />
-</p>
-
-- Git (intermediate level, collaborative workflows)
-- Linux: **Ubuntu (VPS)** · **Manjaro KDE (Personal)**
-- Knowledge management: **Notion** · **Obsidian**
-- Package management: **pnpm**
-
-
+Improving system design, performance and maintainability
