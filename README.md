@@ -22,7 +22,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 ```ts
 const profile = {
@@ -64,62 +64,95 @@ const profile = {
 
   mindset:
     "Efficiency, clean architecture, teamwork and responsible use of AI",
-};```
+};
+```
 
-🤝 Collaboration & Communication
-I strongly value clear and assertive communication as part of good engineering.
-I enjoy working in team-oriented environments, sharing ideas, giving and receiving feedback, and aligning technical decisions with real objectives.
 
-Good systems are built with good code —
-great systems are built with good teams.
+##  Collaboration & Communication
 
-🧭 Engineering Values
-Clear communication over assumptions
+I strongly value **clear and assertive communication** as part of good engineering.  
+I enjoy working in **team-oriented environments**, sharing ideas, giving and receiving feedback, and aligning technical decisions with real objectives.
 
-Teamwork over ego
+Good systems are built with good code —  
+**great systems are built with good teams.**
 
-Simplicity over unnecessary complexity
+---
 
-AI as a tool, not a shortcut
+## 🧭 Engineering Values
 
-⚡ Tech Stack Overview
-<p align="center"> <img src="https://skillicons.dev/icons?i=py,java,js,ts,react,django,postgres,supabase,docker,git,arduino&perline=11" /> </p>
-🛠 Tech Stack by Area
-🎨 Frontend
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite&perline=10" /> </p>
-⚙️ Backend
-<p align="center"> <img src="https://skillicons.dev/icons?i=py,django,nodejs,deno&perline=10" /> </p>
-🗄 Databases & BaaS
-<p align="center"> <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase&perline=10" /> </p>
-🤖 AI / Data
-<p align="center"> <img src="https://skillicons.dev/icons?i=py,r,sklearn,tensorflow,pytorch&perline=10" /> </p>
-Data analysis and preprocessing
+- Clear communication over assumptions  
+- Teamwork over ego  
+- Simplicity over unnecessary complexity  
+- AI as a tool, not a shortcut  
 
-Machine Learning & Deep Learning foundations
+---
 
-Model training with scikit-learn, TensorFlow, and PyTorch
+##  Tech Stack Overview
 
-🧠 DevOps & Cloud
-<p align="center"> <img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel&perline=10" /> </p>
-Containerized deployments with Docker
+<img src="https://skillicons.dev/icons?i=py,js,ts,supabase&perline=6" />
 
-Learning modern deployment workflows with Dokploy
+---
 
-⚙️ Embedded Systems
-<p align="center"> <img src="https://skillicons.dev/icons?i=arduino&perline=10" /> </p>
-ESP32 · C++ · sensor-based and IoT projects
+##  Tech Stack by Area
 
-🧰 Tools & Workflow
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,linux,bash,postman,figma,notion,obsidian,pnpm&perline=10" /> </p>
-Linux: Ubuntu (VPS) · Manjaro KDE (Personal)
+###  Frontend
 
-Knowledge management: Notion · Obsidian
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite&perline=7" />
 
-Package management: pnpm
+---
 
-🎯 Current Focus
-Building scalable web systems
+###  Backend
 
-Applying AI responsibly to real-world problems
+<img src="https://skillicons.dev/icons?i=py,django,nodejs,deno&perline=6" />
 
-Improving system design, performance and maintainability
+---
+
+###  Databases & BaaS
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase&perline=6" />
+
+---
+
+###  AI / Data
+
+<img src="https://skillicons.dev/icons?i=py,r,sklearn,tensorflow,pytorch&perline=6" />
+
+- Data analysis and preprocessing  
+- Machine Learning & Deep Learning foundations  
+- Model training with **scikit-learn**, **TensorFlow**, and **PyTorch**
+
+---
+
+###  DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel&perline=6" />
+
+- Containerized deployments with **Docker**  
+- Learning modern deployment workflows with **Dokploy**
+
+---
+
+### ⚙️ Embedded Systems
+
+<img src="https://skillicons.dev/icons?i=arduino,cpp&perline=6" />
+
+- ESP32 · C++ · sensor-based and IoT projects
+
+---
+
+###  Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,linux,bash,postman,figma,notion,obsidian,pnpm&perline=8" />
+
+- Linux: **Ubuntu (VPS)** · **Manjaro KDE (Personal)**  
+- Knowledge management: **Notion** · **Obsidian**  
+- Package management: **pnpm**
+
+---
+
+##  Current Focus
+
+- Building scalable web systems  
+- Applying AI responsibly to real-world problems  
+- Improving system design, performance and maintainability  
+
