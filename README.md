@@ -136,13 +136,13 @@ Good systems are built with good code —
 
 <img src="https://skillicons.dev/icons?i=arduino,cpp&perline=6" />
 
-- ESP32 · C++ · sensor-based and IoT projects
+- ESP32 · sensor-based and IoT projects
 
 ---
 
 ###  Tools & Workflow
 
-<img src="https://skillicons.dev/icons?i=git,linux,bash,postman,figma,notion,obsidian,pnpm&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,linux,ubuntu,bash,postman,figma,notion,obsidian,pnpm&perline=8" />
 
 - Linux: **Ubuntu (VPS)** · **Manjaro KDE (Personal)**  
 - Knowledge management: **Notion** · **Obsidian**  
