@@ -64,7 +64,8 @@ const profile = {
 
   mindset:
     "Efficiency, clean architecture, teamwork and responsible use of AI",
-};
+};```
+
 🤝 Collaboration & Communication
 I strongly value clear and assertive communication as part of good engineering.
 I enjoy working in team-oriented environments, sharing ideas, giving and receiving feedback, and aligning technical decisions with real objectives.
