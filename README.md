@@ -84,3 +84,88 @@ Teamwork over ego
 Simplicity over unnecessary complexity
 
 AI as a tool, not a shortcut
+
+
+---
+---
+
+## ⚡ Tech Stack Overview
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,django,postgres,supabase,docker,git,arduino" />
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+### 🎨 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" />
+</p>
+
+---
+
+### ⚙️ Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,deno" />
+</p>
+
+---
+
+### 🗄 Databases & BaaS
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
+</p>
+
+---
+
+### 🤖 AI / Data
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch" />
+</p>
+
+- Data analysis and preprocessing
+- Machine Learning & Deep Learning foundations
+- Model training and experimentation with **scikit-learn**, **TensorFlow**, and **PyTorch**
+
+---
+
+### 🧠 DevOps & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel" />
+</p>
+
+- Containerized deployments with **Docker**
+- Learning modern deployment workflows with **Dokploy**
+- Edge and hosting platforms for scalable apps
+
+---
+
+### ⚙️ Embedded Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</p>
+
+- ESP32 · C++ · sensor-based and IoT projects
+
+---
+
+### 🧰 Tools & Workflow
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux,bash,postman,figma" />
+</p>
+
+- Git (intermediate level, collaborative workflows)
+- Linux: **Ubuntu (VPS)** · **Manjaro KDE (Personal)**
+- Knowledge management: **Notion** · **Obsidian**
+- Package management: **pnpm**
+
+
