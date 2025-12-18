@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-<h1>Hi, I'm Luis Grandett 👋</h1>
+<h1></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=520&lines=Systems+Engineering+Student;AI-Oriented+Developer;Software+%2B+Hardware+Builder;Turning+ideas+into+working+systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3250&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Luis+Grandett;Systems+Engineering+Student;AI-Oriented+Developer;Software+%2B+Hardware+Builder;Turning+ideas+into+working+systems" />
 
 <br/>
 
