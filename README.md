@@ -65,18 +65,14 @@ const profile = {
   mindset:
     "Efficiency, clean architecture, teamwork and responsible use of AI",
 };
-
 🤝 Collaboration & Communication
-
 I strongly value clear and assertive communication as part of good engineering.
-I enjoy working in team-oriented environments, sharing ideas, giving and
-receiving feedback, and aligning technical decisions with real objectives.
+I enjoy working in team-oriented environments, sharing ideas, giving and receiving feedback, and aligning technical decisions with real objectives.
 
 Good systems are built with good code —
 great systems are built with good teams.
 
 🧭 Engineering Values
-
 Clear communication over assumptions
 
 Teamwork over ego
@@ -86,17 +82,16 @@ Simplicity over unnecessary complexity
 AI as a tool, not a shortcut
 
 ⚡ Tech Stack Overview
-<p align="center"> <img src="https://skills-icons.vercel.app/api/icons?i=python,java,javascript,typescript,react,django,postgresql,supabase,docker,git,arduino" /> </p>
-🛠 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=py,java,js,ts,react,django,postgres,supabase,docker,git,arduino&perline=11" /> </p>
+🛠 Tech Stack by Area
 🎨 Frontend
-<p align="center"> <img src="https://skills-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,tailwind,vite" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite&perline=10" /> </p>
 ⚙️ Backend
-<p align="center"> <img src="https://skills-icons.vercel.app/api/icons?i=python,django,nodejs,deno" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=py,django,nodejs,deno&perline=10" /> </p>
 🗄 Databases & BaaS
-<p align="center"> <img src="https://skills-icons.vercel.app/api/icons?i=postgresql,mysql,supabase" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase&perline=10" /> </p>
 🤖 AI / Data
-<p align="center"> <img src="https://skills-icons.vercel.app/api/icons?i=python,r,tensorflow,pytorch" /> </p>
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=py,r,sklearn,tensorflow,pytorch&perline=10" /> </p>
 Data analysis and preprocessing
 
 Machine Learning & Deep Learning foundations
@@ -104,20 +99,17 @@ Machine Learning & Deep Learning foundations
 Model training with scikit-learn, TensorFlow, and PyTorch
 
 🧠 DevOps & Cloud
-<p align="center"> <img src="https://skills-icons.vercel.app/api/icons?i=docker,cloudflare,vercel" /> </p>
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel&perline=10" /> </p>
 Containerized deployments with Docker
 
 Learning modern deployment workflows with Dokploy
 
 ⚙️ Embedded Systems
-<p align="center"> <img src="https://skills-icons.vercel.app/api/icons?i=arduino" /> </p>
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=arduino&perline=10" /> </p>
 ESP32 · C++ · sensor-based and IoT projects
 
 🧰 Tools & Workflow
-<p align="center"> <img src="https://skills-icons.vercel.app/api/icons?i=git,linux,bash,postman,figma" /> </p>
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,linux,bash,postman,figma,notion,obsidian,pnpm&perline=10" /> </p>
 Linux: Ubuntu (VPS) · Manjaro KDE (Personal)
 
 Knowledge management: Notion · Obsidian
@@ -125,7 +117,6 @@ Knowledge management: Notion · Obsidian
 Package management: pnpm
 
 🎯 Current Focus
-
 Building scalable web systems
 
 Applying AI responsibly to real-world problems
