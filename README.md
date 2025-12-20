@@ -89,7 +89,7 @@ Good systems are built with good code —
 
 ##  Tech Stack Overview
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,supabase&perline=6" />
+<img src="https://skillicons.dev/icons?i=java,py,js,ts,supabase&perline=6" />
 
 ---
 
@@ -103,7 +103,7 @@ Good systems are built with good code —
 
 ###  Backend
 
-<img src="https://skillicons.dev/icons?i=py,django,nodejs,deno&perline=6" />
+<img src="https://skillicons.dev/icons?i=java,py,django,nodejs,deno&perline=6" />
 
 ---
 
