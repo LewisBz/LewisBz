@@ -98,11 +98,12 @@ Good systems are built with good code —
 
 <img src="https://skillicons.dev/icons?i=java,py,django,ts,nodejs,deno&perline=6" />
 
+---
+
 ###  Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite&perline=7" />
 
----
 
 
 ---
