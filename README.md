@@ -94,6 +94,9 @@ Good systems are built with good code —
 ---
 
 ##  Tech Stack by Area
+###  Backend
+
+<img src="https://skillicons.dev/icons?i=java,py,django,ts,nodejs,deno&perline=6" />
 
 ###  Frontend
 
@@ -101,9 +104,6 @@ Good systems are built with good code —
 
 ---
 
-###  Backend
-
-<img src="https://skillicons.dev/icons?i=java,py,django,nodejs,deno&perline=6" />
 
 ---
 
