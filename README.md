@@ -143,7 +143,7 @@ Good systems are built with good code —
 
 ###  Tools & Workflow
 
-<img src="https://skillicons.dev/icons?i=git,linux,ubuntu,bash,postman,figma,notion,obsidian,pnpm&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,linux,ubuntu,bash,postman,figma,notion,obsidian,pnpm,githubactions&perline=8" />
 
 - Linux: **Ubuntu (VPS)** · **Manjaro KDE (Personal)**  
 - Knowledge management: **Notion** · **Obsidian**  
